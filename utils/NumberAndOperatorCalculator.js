@@ -6,7 +6,7 @@ export class ButtonCalculator{
             // Operadores básicos
             suma: '+',
             resta: '-',
-            multiplicacion: '*',
+            multiplicacion: '*', 
             division: '/',
             // Operadores de potencia y raíz
             potencia: '**', // Exponente
